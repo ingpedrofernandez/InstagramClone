@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="name_of_kickboxer">Name of kickboxer</string>
+    <string name="enter_punch_speed">Enter Punch Speed</string>
+    <string name="enter_punch_power">Enter Punch Power</string>
+    <string name="enter_kick_speed">Enter Kick Speed</string>
+    <string name="enter_kick_power">Enter Kick Power</string>
+    <string name="save_kickboxer_to_server">Save Kickboxer to Server</string>
+</resources>
