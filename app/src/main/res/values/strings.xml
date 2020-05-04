@@ -6,4 +6,16 @@
     <string name="enter_kick_speed">Enter Kick Speed</string>
     <string name="enter_kick_power">Enter Kick Power</string>
     <string name="save_kickboxer_to_server">Save Kickboxer to Server</string>
+
+    <string name="sign_up_user">Sign Up User</string>
+
+    <string name="log_in_user">Log In User</string>
+    <string name="enter_username_Signup">Enter Username</string>
+    <string name="enter_passwords">Enter Password</string>
+    <string name="enter_usernamel">Enter Username</string>
+    <string name="enter_passwordl">Enter Password</string>
+    <string name="enter_sign_up_username">Enter Sign Up Username</string>
+    <string name="enter_sign_up_password">Enter Sign Up Password</string>
+    <string name="enter_login_username">Enter Login Username</string>
+    <string name="enter_login_password">Enter Login Password</string>
 </resources>
